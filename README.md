@@ -7,7 +7,7 @@ Skeleton flask python application provided by [Carlos Castillo](http://github.co
 ## How to use it
 ```
 $ # Use the template
-$ Select the option of <Use the template >
+$ Select the option of <Use this template >
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env -p python3
