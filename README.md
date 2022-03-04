@@ -1,5 +1,5 @@
 # Flask App Skeleton
-Skeleton flask python application provided by [carlos Castillo](http://github.com/carloscastillo10) is a project that could help beginners to quickly have a simple structure of a python-based project using the Flask framework.
+Skeleton flask python application provided by [Carlos Castillo](http://github.com/carloscastillo10) is a project that could help beginners to quickly have a simple structure of a python-based project using the Flask framework.
 
 ![image](https://user-images.githubusercontent.com/38107722/156813966-d61ebf15-a221-49c8-88ef-f7d281694e47.png)
 --
